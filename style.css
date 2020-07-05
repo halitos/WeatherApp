@@ -29,5 +29,6 @@ body {
 
 .degree {
   font-size: 36px;
+  display: flex;
   cursor: pointer;
 }
